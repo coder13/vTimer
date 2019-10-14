@@ -1,8 +1,6 @@
 # v-timer
 
-> Vue.js Rubik's Cube Timer
-> 
-> Built as a PWA so that it can be downloaded offlin and continue to be used.
+Rubik's cube timer built with Vue.js as a PWA.
 
 ## Build Setup
 
@@ -25,4 +23,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
